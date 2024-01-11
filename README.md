@@ -3,6 +3,9 @@
 [![Github Actions Status](https://github.com/Alex-Lewandowski/jupyterlab-jbook-chapter-navigation/workflows/Build/badge.svg)](https://github.com/Alex-Lewandowski/jupyterlab-jbook-chapter-navigation/actions/workflows/build.yml)[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Alex-Lewandowski/jupyterlab-jbook-chapter-navigation/main?urlpath=lab)
 A JupyterLab extension that mimics jupyter-book chapter navigation on an un-built, cloned jupyter book in JupyterLab.
 
+[!WARNING] 
+TEST
+
 This extension is composed of a Python package named `jlab_jbook_chapter_navigation`
 for the server extension and a NPM package named `jlab-jbook-chapter-navigation`
 for the frontend extension.
